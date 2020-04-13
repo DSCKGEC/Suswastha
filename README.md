@@ -15,17 +15,16 @@ Stay safe, stay home!
 
 
 ## Features
-
 - Map tracker
 - AI ChatBot
 - Login Features
 
-### Map Tracker:
+### Map Tracker
 
 One of the main features of this project is its Map Tracker.
 Not only it does provide a live coverage of nearby COVID hotspots, but also provides information of the nearest medicine shops and hospital.
 
-### AI ChatBot:
+### AI ChatBot
 
 It is an AI based ChatBot that responds to texts regarding *Corona* and *Latest Reports of Corona* cited from reputed and official sources.
 
