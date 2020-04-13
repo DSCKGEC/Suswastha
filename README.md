@@ -24,6 +24,8 @@ Stay safe, stay home!
 One of the main features of this project is its Map Tracker.
 Not only it does provide a live coverage of nearby COVID hotspots, but also provides information of the nearest medicine shops and hospital.
 
+![](https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg)
+
 ### AI ChatBot
 
 It is an AI based ChatBot that responds to texts regarding *Corona* and *Latest Reports of Corona* cited from reputed and official sources.
