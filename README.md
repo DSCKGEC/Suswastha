@@ -23,7 +23,7 @@ Stay safe, stay home!
 One of the main features of this project is its Map Tracker.
 Not only it does provide a live coverage of nearby COVID hotspots, but also provides information of the nearest medicine shops and hospital.
 
-<img src='https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg' height="720" width="480">
+<img src='https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg' height="480" width="360">
 
 ### AI ChatBot
 
