@@ -45,6 +45,7 @@ The primary features are enlisted below –
 5. Provides Data for every Indian State or Union Territory, as made available by Official Sources.
 6. Data are collected from WHO, MOHFW and Govt. of West Bengal sites only.
 
+![](https://user-images.githubusercontent.com/55695557/79131411-2ff7ff80-7dc6-11ea-9049-b1ce3358da95.jpg)
 
 We are planning to implement additional features like:
 
@@ -62,3 +63,6 @@ They may submit complaints, requirements of food, report new cases that went unn
 Get live and quick updates of the cases.
 New inputs from users directly get into their logs.
 They get to know not only about user complaints and needs but also a very precise location info of where those queries and complaints came from.
+
+![](https://user-images.githubusercontent.com/55695557/79131370-24a4d400-7dc6-11ea-9a4a-56bc92d15af1.jpg)
+![](https://user-images.githubusercontent.com/55695557/79131367-22427a00-7dc6-11ea-9ca3-640bac6792cf.jpg)
