@@ -1,4 +1,4 @@
-# Suswastha <img src='https://user-images.githubusercontent.com/55695557/79131383-28385b00-7dc6-11ea-966a-27795b9f3fc3.jpg' height="24" width="24"> 
+# <img src='https://user-images.githubusercontent.com/55695557/79131383-28385b00-7dc6-11ea-966a-27795b9f3fc3.jpg' height="36" width="36"> Suswastha 
 
 COVID-19 Hotspot & Service Mapper
 
