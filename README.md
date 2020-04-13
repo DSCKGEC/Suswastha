@@ -11,7 +11,7 @@ The users of this application have the option to submit the problems they are fa
 Thus the main motive of this project is not only to help people stay more alert by having a very clear visual status of the areas they are in and interacting with the AI bot but also to benefit the authorities responsible for tackling and tracing new **COVID-19** cases as the live visualization offered is something we have been missing on. 
 Stay safe, stay home!
 
-![](https://user-images.githubusercontent.com/55695557/79131383-28385b00-7dc6-11ea-966a-27795b9f3fc3.jpg)
+![](https://user-images.githubusercontent.com/55695557/79131383-28385b00-7dc6-11ea-966a-27795b9f3fc3.jpg = 1080x1920)
 
 
 ## Features
@@ -24,9 +24,13 @@ Stay safe, stay home!
 One of the main features of this project is its Map Tracker.
 Not only it does provide a live coverage of nearby COVID hotspots, but also provides information of the nearest medicine shops and hospital.
 
+![](https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg)
+
 ### AI ChatBot
 
 It is an AI based ChatBot that responds to texts regarding *Corona* and *Latest Reports of Corona* cited from reputed and official sources.
+
+![](https://user-images.githubusercontent.com/55695557/79131397-2cfd0f00-7dc6-11ea-9ca7-60f95c2a20ff.jpg)
 
 The primary features are enlisted below –
 1. Menu driven interface to provide –
@@ -41,6 +45,7 @@ The primary features are enlisted below –
 5. Provides Data for every Indian State or Union Territory, as made available by Official Sources.
 6. Data are collected from WHO, MOHFW and Govt. of West Bengal sites only.
 
+![](https://user-images.githubusercontent.com/55695557/79131411-2ff7ff80-7dc6-11ea-9049-b1ce3358da95.jpg)
 
 We are planning to implement additional features like:
 
@@ -58,3 +63,6 @@ They may submit complaints, requirements of food, report new cases that went unn
 Get live and quick updates of the cases.
 New inputs from users directly get into their logs.
 They get to know not only about user complaints and needs but also a very precise location info of where those queries and complaints came from.
+
+![](https://user-images.githubusercontent.com/55695557/79131370-24a4d400-7dc6-11ea-9a4a-56bc92d15af1.jpg)
+![](https://user-images.githubusercontent.com/55695557/79131367-22427a00-7dc6-11ea-9ca3-640bac6792cf.jpg)
