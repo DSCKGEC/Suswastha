@@ -9,3 +9,5 @@ The users of this application have the option to submit the problems they are fa
 
 Thus the main motive of this project is not only to help people stay more alert by having a very clear visual status of the areas they are in and interacting with the AI bot but also to benefit the authorities responsible for tackling and tracing new **COVID-19** cases as the live visualization offered is something we have been missing on. 
 Stay safe, stay home!
+
+![](https://drive.google.com/open?id=1xResPd438qtPWe0okaH72LZWZArGTDdW)
