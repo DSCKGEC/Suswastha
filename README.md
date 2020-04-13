@@ -30,6 +30,8 @@ Not only it does provide a live coverage of nearby COVID hotspots, but also prov
 
 It is an AI based ChatBot that responds to texts regarding *Corona* and *Latest Reports of Corona* cited from reputed and official sources.
 
+![](https://user-images.githubusercontent.com/55695557/79131397-2cfd0f00-7dc6-11ea-9ca7-60f95c2a20ff.jpg)
+
 The primary features are enlisted below –
 1. Menu driven interface to provide –
     a. Information Regarding Corona Virus and its Symptoms
