@@ -47,3 +47,15 @@ We are planning to implement additional features like:
 
 1. AI Based Symptom Checker based on contextual conversation.
 2. Information regarding Local Facilities that can be used to extend support during the lockdown such as Local Ambulances, Delivery Agents, etc. that are functional.
+
+
+### User Login & Admin Login
+
+- User login
+Avails user to submit his problems directly to responsible authorities. 
+They may submit complaints, requirements of food, report new cases that went unnoticed by the police and goverbnment officials.
+
+- Admin Login
+Get live and quick updates of the cases.
+New inputs from users directly get into their logs.
+They get to know not only about user complaints and needs but also a very precise location info of where those queries and complaints came from.
