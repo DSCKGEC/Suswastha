@@ -11,3 +11,9 @@ Thus the main motive of this project is not only to help people stay more alert 
 Stay safe, stay home!
 
 ![](https://drive.google.com/open?id=1xResPd438qtPWe0okaH72LZWZArGTDdW)
+
+# Features
+
+- Map tracker
+- AI ChatBot
+- Login Features
