@@ -1,6 +1,6 @@
 # <img src='https://user-images.githubusercontent.com/55695557/79131383-28385b00-7dc6-11ea-966a-27795b9f3fc3.jpg' height="36" width="36"> Suswastha 
 
-COVID-19 Hotspot & Service Mapper
+#### COVID-19 Hotspot & Service Mapper
 
 We, the students of **Kalyani Government Engineering College** present before you our project - **Suswastha**, the all in one Corona Safety Assistance for one and all! 
 
