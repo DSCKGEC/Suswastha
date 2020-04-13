@@ -1,5 +1,6 @@
 # <img src='https://user-images.githubusercontent.com/55695557/79135513-0c848300-7dcd-11ea-9dc9-574b6478c52a.png' height="36" width="36"> Suswastha 
 
+
 ### COVID-19 Hotspot & Service Mapper
 
 We, the students of **Kalyani Government Engineering College** present before you our project - **Suswastha**, the all in one Corona Safety Assistance for one and all! 
@@ -18,10 +19,9 @@ Stay safe, stay home!
 
 ### Map Tracker
 
-One of the main features of this project is its Map Tracker.
-Not only it does provide a live coverage of nearby COVID hotspots, but also provides information of the nearest medicine shops and hospital.
-
-<img src='https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg' height="720" width="480">
+| | |
+| :---: | :---: |
+| _One of the main features of this project is its <br> Map Tracker. Not only it does provide a live coverage <br> of nearby COVID hotspots, but also provides <br> information of the nearest medicine shops and hospital._ | <img src='https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg' height="720"> |
 
 ### AI ChatBot
 
