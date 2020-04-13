@@ -1,0 +1,54 @@
+<div>
+    <h1>Welcome to COVID-19 Admin Panel</h1>
+</div>
+
+<br />
+<mat-divider></mat-divider>
+<br />
+
+<div fxLayout="row" fxLayoutAlign="space-between center" fxLayoutGap="20px" class="main-card">
+    <mat-card fxFlex="100">
+        <mat-card-header>
+            <div mat-card-avatar class="card-icon">
+                <mat-icon>add</mat-icon>
+            </div>
+            <mat-card-title>Add Area</mat-card-title>
+            <mat-card-subtitle>Mark COVID Severity Area</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+            <div class="row">
+                <div class="container">
+                    <form class="setup-form" id="add-area" autocomplete="off" (submit)="addArea($event)">
+                        <mat-form-field class="form-full-width">
+                            <input matInput placeholder="Please enter Location" type="string" id="location" required>
+                        </mat-form-field>
+                        <mat-form-field class="form-full-width">
+                            <input matInput placeholder="Please enter Area Radius (in Kms)" type="number" id="radius"
+                                required min="1" max="15">
+                        </mat-form-field>
+                        <div class="container-row">
+                            <div>
+                                <button type="submit" mat-raised-button color="accent" id="submit">Search</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="row" *ngIf="loc">
+                <p>Location : {{ loc }} | Latitude : {{ geoLat }} | Longitude : {{ geoLng }}</p>
+                <!-- <p>Geo Code - {{ geoHash }}</p> -->
+            </div>
+            <div class="row text-center" *ngIf="updated">
+                <h3><strong>Location was Updated</strong></h3>
+            </div>
+        </mat-card-content>
+        <mat-card-actions>
+            <button mat-raised-button color="primary" (click)="setArea($event)">ADD/UPDATE</button>
+            <button mat-raised-button (click)="cancelE($event)">CANCEL</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
+
+<br />
+<mat-divider></mat-divider>
+<br />

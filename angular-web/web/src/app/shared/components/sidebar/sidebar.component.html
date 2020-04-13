@@ -1,0 +1,33 @@
+<mat-nav-list>
+    <div class="profile-card">        
+        <img src="../../../../assets/admin.png" alt="Admin Name">
+        <div class="header">
+            <h3>{{ userEmail }}</h3>
+            <h4><strong>{{ userName }}</strong></h4>
+        </div>
+    </div>
+
+    <mat-divider></mat-divider>
+
+    <h2 matSubheader>Navigate</h2>
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/">Dashboard</a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/maps">Maps</a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/reports">Reports</a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/register">Add New User</a>
+
+    <mat-divider></mat-divider>
+
+    <h2 matSubheader>Tools</h2>
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/about">
+        <mat-icon>contact_phone</mat-icon>
+        Contact the Developers
+    </a>
+
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/essentials">
+        <mat-icon>history</mat-icon>
+        Essential Services
+    </a>
+
+</mat-nav-list>

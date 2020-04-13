@@ -1,0 +1,35 @@
+<div class="text-center">
+    <h1>Add an User Account</h1>
+</div>
+
+<mat-divider></mat-divider>
+
+<div class="row text-center" *ngIf="authError">
+    <br />
+    <h3>{{ authError }}</h3>
+</div>
+
+<div class="card-content">
+    <div class="container">
+        <form class="setup-form" autocomplete="off" (submit)="registerUser($event)">
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Enter Name" type="text" id="name" required>
+            </mat-form-field>
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Email" type="email" id="email" required>
+            </mat-form-field>
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Password" type="password" id="password" required minlength="8">
+            </mat-form-field>
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Confirm Password" type="password" id="cpassword" required minlength="8">
+            </mat-form-field>
+            <div class="container-row">
+                <div>
+                    <button type="submit" mat-raised-button color="primary" id="submit">Add User</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

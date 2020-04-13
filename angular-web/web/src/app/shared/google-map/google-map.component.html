@@ -1,0 +1,34 @@
+<mat-card>
+    <mat-card-content>
+        Radius of Observation : 
+        <mat-slider [max]="max" [min]="min" [step]="step"
+            [thumbLabel]="thumbLabel" [(ngModel)]="value" (input)="onInputChange($event)">
+        </mat-slider>
+    </mat-card-content>
+</mat-card>
+
+<div class="map-container" *ngIf="lat && lng">
+    <agm-map [latitude]="lat" [longitude]="lng" [zoom]="zoom">
+
+        <agm-marker *ngIf="lat && lng" [latitude]="lat" [longitude]="lng">
+
+            <agm-info-window>
+                <h3>You are Here!</h3>
+            </agm-info-window>
+        </agm-marker>
+
+        <agm-marker *ngFor="let point of points | async" [latitude]="point.pos.geopoint.latitude"
+            [longitude]="point.pos.geopoint.longitude">
+            <agm-info-window>
+                <h1>{{ point.location }}</h1>
+                <h3>
+                    Severity: {{ (1 - point.rank).toPrecision(2) }}
+                </h3>
+            </agm-info-window>
+        </agm-marker>
+
+
+        <agm-circle [latitude]="lat" [longitude]="lng" [radius]="(radius | async) * 1000"></agm-circle>
+
+    </agm-map>
+</div>

@@ -1,0 +1,31 @@
+<div class="title text-center">
+    <br/>
+    <h1><strong>COVID 19 ADMIN</strong></h1>
+    <h3>Login</h3>
+</div>
+
+<br/>
+
+<div class="row">
+    <div class="container">
+        <form class="setup-form" autocomplete="off" (submit)="loginUser($event)">
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Please enter your Email" type="email" id="email" required>
+            </mat-form-field>
+            <mat-form-field class="form-full-width">
+                <input matInput placeholder="Please enter your Password" type="password" id="password" required minlength="8">
+            </mat-form-field>
+            <div class="container-row">
+                <div>
+                    <button type="submit" mat-raised-button color="primary" id="submit">Login</button>
+                </div>
+            </div>
+        </form>
+        
+        <p><a href="/Suswastha.apk" download>Download Android Application</a></p>
+        <br />
+    </div>
+</div>
+
+
+<app-footer></app-footer>
