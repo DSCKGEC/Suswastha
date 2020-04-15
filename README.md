@@ -17,24 +17,33 @@ Stay safe, stay home!
 - AI ChatBot
 - Login Features
 
+----
+
 ### Map Tracker
 
 One of the main features of this project is its <br> Map Tracker.  <br>  <br> Not only it does provide a live coverage <br> of nearby COVID hotspots, but also provides <br> information of the nearest medicine shops and hospital. | <img src='https://user-images.githubusercontent.com/55695557/79131391-2b334b80-7dc6-11ea-8e46-ebe3d4f7b31e.jpg' height="720"> 
 :-- | --
+
+----
 
 ### AI ChatBot
 
 <img src='https://user-images.githubusercontent.com/55695557/79131397-2cfd0f00-7dc6-11ea-9ca7-60f95c2a20ff.jpg' height="720"> | It is an AI based ChatBot that responds to texts <br> regarding *Corona* and *Latest Reports of Corona* cited <br> from reputed and official sources.
 -- | --:
 
+----
+
 The primary features are enlisted below – <br>  <br> 1. Menu driven interface to provide – <br> a. Information Regarding Corona Virus <br> and its Symptoms <br> b. What are the preventions, Dos and Don’ts? <br> c. Important Helpline Numbers (Central and State Wise) <br> d. Location and phone number of facilities that <br> are providing urgent medical support such as <br> isolation, quarantine, etc. <br> e. Real-time Reports of Confirmed Cases (in figures) <br> – Sourced from Ministry of Home and Family Welfare <br> <br> 2. Can answer to basic questions regarding Corona, <br> its symptoms and preventions, etc. <br>  <br> 3. Additional References and <br> provision to read or know more. <br> <br> 4. Provides Data for every Indian State or Union Territory, <br> as made available by Official Sources. <br> <br> 5. Data are collected from WHO, MOHFW and  <br> Govt. of West Bengal sites only. | <img src='https://user-images.githubusercontent.com/55695557/79131411-2ff7ff80-7dc6-11ea-9049-b1ce3358da95.jpg' height="720">
 :-- | --
+
+----
 
 We are planning to implement additional features like:
 
 1. AI Based Symptom Checker based on contextual conversation.
 2. Information regarding Local Facilities that can be used to extend support during the lockdown such as Local Ambulances, Delivery Agents, etc. that are functional.
 
+----
 
 ### User Login & Admin Login
 
@@ -46,6 +55,8 @@ They may submit complaints, requirements of food, report new cases that went unn
 Get live and quick updates of the cases.
 New inputs from users directly get into their logs.
 They get to know not only about user complaints and needs but also a very precise location info of where those queries and complaints came from.
+
+----
 
 <img src='https://user-images.githubusercontent.com/55695557/79131370-24a4d400-7dc6-11ea-9a4a-56bc92d15af1.jpg' height="720"> | <img src='https://user-images.githubusercontent.com/55695557/79131367-22427a00-7dc6-11ea-9ca3-640bac6792cf.jpg' height="720">
 -- | --
